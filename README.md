@@ -146,6 +146,12 @@ Learning
 [learningPixi](https://github.com/kittykatattack/learningPixi) – definitive guide to game development with pixi.
 
 
+Forks
+=====
+
+[gameofbombs](https://github.com/gameofbombs/pixi.js) – custom pixi 3.0 with static transforms, 2d camera and 2.5d transforms. Used in production on [gameofbombs.com](gameofbombs.com).
+
+
 Tools
 =====
 
