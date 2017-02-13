@@ -52,7 +52,7 @@ Essential
 Debug
 =====
 
-[pixi-inspector](https://github.com/bfanger/pixi-inspector) – awesome plugin for chrome, visually inspect and modify nodes in your scene graph.
+[pixi-inspector](https://github.com/bfanger/pixi-inspector) – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
 
 [fconsole](https://github.com/flashist/fconsole) – very powerful debugging tools, requires a custom setup in your project.
 
