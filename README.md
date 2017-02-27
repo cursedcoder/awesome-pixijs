@@ -108,6 +108,7 @@ Audio
 
 [sound.js](https://github.com/kittykatattack/sound.js) – a micro-library to load, play and generate sound effects and music for games and interactive applications.
 
+[PIXI.draggable](https://github.com/SebastianNette/PIXI.draggable) – "easiest way to get drag & drop done in PIXI.js!"
 
 Particles
 =========
