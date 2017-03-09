@@ -162,6 +162,8 @@ Tools
 Games
 =====
 
+[polyball](https://github.com/polyball/polyball) – fast, multiplayer, physics-driven tennis in two dimensions..
+
 [bemuse](https://github.com/bemusic/bemuse) – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
 
 [breakout](https://github.com/Bonnee/breakthefuckout) – breakout game made in JavaScript and Pixi.js.
