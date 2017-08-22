@@ -28,6 +28,8 @@ Websites and forums
 Scene, textures, sprites, other augmentations
 =============================================
 
+[pixi-richtext](https://github.com/avgjs/pixi-richtext) – SDF text plugin.
+
 [pixi-display](https://github.com/pixijs/pixi-display) – allows to change rendering order of pixi-v4 containers without changing the stage, z-index for the win.
 
 [pixi-picture](https://github.com/pixijs/pixi-picture) – top-quality render for sprites, removes any artifacts that are present in basic sprite.
