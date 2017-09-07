@@ -100,6 +100,8 @@ GUI and interaction
 
 [text-input](https://github.com/limikael/PixiTextInput) – text input add-on.
 
+[goodshow](https://github.com/simplygreatwork/goodshow) – a hackable, simple, entity-component UI system for Pixi and WebGL.
+
 
 Audio
 =====
