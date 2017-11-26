@@ -44,6 +44,10 @@ Scene, textures, sprites, other augmentations
 
 [pixicam](https://github.com/georgiee/lab-pixicam) – 2d camera for pixi.
 
+[pixi-super-atlas](https://github.com/gameofbombs/pixi-super-atlas) – create image atlas in your runtime, mipmaps supported.
+
+[pixi-heaven](https://github.com/gameofbombs/pixi-heaven) – runtime atlas, double tint for sprites, fastest glsl-calculated sprite masks.
+
 
 Essential
 =========
