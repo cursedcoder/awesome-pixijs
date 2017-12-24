@@ -48,6 +48,8 @@ Scene, textures, sprites, other augmentations
 
 [pixi-heaven](https://github.com/gameofbombs/pixi-heaven) – runtime atlas, double tint for sprites, fastest glsl-calculated sprite masks.
 
+[pixi-viewport](https://github.com/davidfig/pixi-viewport) – a highly configurable viewport/2D camera designed to work with pixi.js.
+
 
 Essential
 =========
