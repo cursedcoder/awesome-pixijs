@@ -106,6 +106,8 @@ GUI and interaction
 
 [text-input](https://github.com/limikael/PixiTextInput) – text input add-on.
 
+[dat.gui](https://github.com/dataarts/dat.gui) – DOM-based GUI can be used as dev tools on top of pixi.
+
 
 Audio
 =====
