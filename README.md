@@ -149,8 +149,12 @@ Integrations
 
 [robotlegs-pixi](https://github.com/GoodgameStudios/RobotlegsJS-Pixi) – RobotlegsJS framework integration with PixiJS.
 
-Learning
-========
+Books & Learning
+================
+
+[The Book of Shaders](https://thebookofshaders.com/) – ✨ comprehensive book about glsl with examples in javascript and [online sandbox](http://editor.thebookofshaders.com/).
+
+[WebGL How it Works](https://webglfundamentals.org/webgl/lessons/webgl-how-it-works.html) – ✨ if you have zero computer graphics knowledge, the set of articles helps to get your hands on webgl api and fundamentals.
 
 [kittenattack](https://github.com/kittykatattack) – check that person github repositories, most of them are incredibly suited for learning.
 
