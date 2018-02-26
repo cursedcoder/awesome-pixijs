@@ -102,8 +102,6 @@ GUI and interaction
 
 [pixi-keyboard](https://github.com/Nazariglez/pixi-keyboard) – powerful keyboard handling for pixi.
 
-[rgui](https://github.com/molingyu/rguijs) – async and easy to expand GUI framework.
-
 [text-input](https://github.com/limikael/PixiTextInput) – text input add-on.
 
 [dat.gui](https://github.com/dataarts/dat.gui) – DOM-based GUI can be used as dev tools on top of pixi.
