@@ -168,8 +168,11 @@ Forks
 Tools
 =====
 
+[TexturePacker](https://www.codeandweb.com/texturepacker) – Sprite sheet packer for PixiJS with graphical user interface and command line. Optimizes sprite sheets for best render quality and low memory usage.
+
 [spritesheet.js](https://github.com/krzysztof-o/spritesheet.js) – is command-line spritesheet (a.k.a. Texture Atlas) generator written in node.js. Support export to pixi.js
 
+[SpriteIlluminator](https://www.codeandweb.com/spriteilluminator) – Normal map generator for sprites. Allows creating awesome dynamic light effects.
 
 Games
 =====
