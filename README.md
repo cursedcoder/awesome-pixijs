@@ -54,6 +54,8 @@ Scene, textures, sprites, other augmentations
 Essential
 =========
 
+[ee3-timer](https://github.com/soimy/eventemitter3-timer) – addition to ee3 and works with PIXI >4.
+
 [pixi-timer](https://github.com/Nazariglez/pixi-timer) – manage event timers easily.
 
 
