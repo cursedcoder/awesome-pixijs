@@ -137,6 +137,7 @@ Game Engines
 
 [hexi](https://github.com/kittykatattack/hexi) – minimalistic game engine with pixi rendering.
 
+[pixi-engine](https://github.com/gamestdio/pixi-engine) - Provides a minimal engine-like structure for developing games with PixiJS
 
 Integrations
 ============
