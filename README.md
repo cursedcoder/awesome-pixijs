@@ -50,6 +50,7 @@ Scene, textures, sprites, other augmentations
 
 [pixi-viewport](https://github.com/davidfig/pixi-viewport) – a highly configurable viewport/2D camera designed to work with pixi.js.
 
+[canvas-latex](https://github.com/CurriculumAssociates/canvas-latex) – render latex formulas in pixi.js.
 
 Essential
 =========
