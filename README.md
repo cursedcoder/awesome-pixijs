@@ -198,3 +198,5 @@ Games
 [tetris](https://github.com/nylira/tetris) – just a tetris.
 
 [wbwwb-ko](https://github.com/simnalamburt/wbwwb-ko)
+
+[LegendOfMountainSea](https://github.com/SkyHarp/LegendOfMountainSea) – 4X sandbox game with legend of Mountain and Sea Classics.
