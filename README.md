@@ -151,6 +151,8 @@ Integrations
 
 [robotlegs-pixi](https://github.com/GoodgameStudios/RobotlegsJS-Pixi) – RobotlegsJS framework integration with PixiJS.
 
+[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) – integration with react.js framework.
+
 Books & Learning
 ================
 
