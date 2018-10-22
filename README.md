@@ -153,6 +153,8 @@ Integrations
 
 [react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) – integration with react.js framework.
 
+[react-pixi](https://github.com/inlet/react-pixi) – another react.js integration with custom renderer, reconcilation, etc.
+
 Books & Learning
 ================
 
