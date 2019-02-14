@@ -67,6 +67,9 @@ Debug
 
 [fconsole](https://github.com/flashist/fconsole) – very powerful debugging tools, requires a custom setup in your project.
 
+[pixi-console](https://github.com/jkanchelov/pixi-console) - adds a container that shows console log. Useful on mobile devices.
+
+[gstatsjs](https://github.com/eXponenta/gstatsjs) - shows several texture-related metrics, like drawcalls. Works with Pixi, Phaser, can be integrated in custom renderers.
 
 Animate
 =======
