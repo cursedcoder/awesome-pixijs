@@ -173,7 +173,7 @@ Books & Learning
 Forks
 =====
 
-[gameofbombs](https://github.com/gameofbombs/pixi.js) – custom pixi 3.0 with static transforms, 2d camera and 2.5d transforms. Used in production on [gameofbombs.com](gameofbombs.com).
+[gameofbombs](https://github.com/gameofbombs/pixi.js) – custom pixi 3.0 with static transforms, 2d camera and 2.5d transforms. Used in production on [gameofbombs.com](https://gameofbombs.com).
 
 
 Tools
