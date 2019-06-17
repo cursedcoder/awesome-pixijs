@@ -94,6 +94,8 @@ GUI and interaction
 
 [dat.gui](https://github.com/dataarts/dat.gui) – DOM-based GUI can be used as dev tools on top of pixi.
 
+[heatmap](https://github.com/nconrad/heatmap) – WebGL Heatmap Viewer for Bioinformatics and Big Data.
+
 
 Audio
 =====
