@@ -65,8 +65,6 @@ Debug
 
 [pixi-inspector](https://github.com/bfanger/pixi-inspector) – awesome [plugin for chrome](https://chrome.google.com/webstore/detail/pixi-inspector/aamddddknhcagpehecnhphigffljadon), visually inspect and modify nodes in your scene graph.
 
-[fconsole](https://github.com/flashist/fconsole) – very powerful debugging tools, requires a custom setup in your project.
-
 [pixi-console](https://github.com/jkanchelov/pixi-console) - adds a container that shows console log. Useful on mobile devices.
 
 [gstatsjs](https://github.com/eXponenta/gstatsjs) - shows several texture-related metrics, like drawcalls. Works with Pixi, Phaser, can be integrated in custom renderers.
@@ -80,23 +78,15 @@ Animate
 
 [pixi-live2d](https://github.com/avgjs/pixi-live2d) – plugin for japanese animation tool [live2d](http://live2d.com).
 
-[pixi-dragonbones](https://github.com/cinkonaap/pixi-dragonbones) – plugin for royalty-free animation tool [dragonbones](http://dragonbones.com/en/index.html).
-
 [pixi-tween](https://github.com/Nazariglez/pixi-tween) – tweens!
 
 [pixi-animate](https://github.com/jiborobot/pixi-animate) – plugin for Pixi.js which provides a runtime for content export using PixiAnimate Extension.
-
-[gsap-pixi](https://github.com/noprotocol/gsap-pixi-plugin) – plugin for popular gsap animation library.
 
 
 Filters, shaders, vfx
 =====================
 
-[PixiGlitch](https://github.com/ktingvoar/PixiGlitch) – various glitch effects .
-
 [pixi-filters](https://github.com/pixijs/pixi-filters) – some official filters.
-
-[pixi-extra-filters](https://github.com/pixijs/pixi-extra-filters) – even more official filters, some of these can be outdated.
 
 
 GUI and interaction
@@ -106,10 +96,6 @@ GUI and interaction
 
 [gown.js](https://github.com/GreyRook/gown.js) – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
 
-[pixi-keyboard](https://github.com/Nazariglez/pixi-keyboard) – powerful keyboard handling for pixi.
-
-[text-input](https://github.com/limikael/PixiTextInput) – text input add-on.
-
 [dat.gui](https://github.com/dataarts/dat.gui) – DOM-based GUI can be used as dev tools on top of pixi.
 
 
@@ -118,11 +104,7 @@ Audio
 
 [pixi-sound](https://github.com/pixijs/pixi-sound) – official WebAudio API playback without any Flash shims or HTML Audio fallback.
 
-[pixi-audio](https://github.com/Nazariglez/pixi-audio) – another great audio plugin with native pixi structure.
-
 [sound.js](https://github.com/kittykatattack/sound.js) – a micro-library to load, play and generate sound effects and music for games and interactive applications.
-
-[PIXI.draggable](https://github.com/SebastianNette/PIXI.draggable) – "easiest way to get drag & drop done in PIXI.js!"
 
 Particles
 =========
@@ -137,8 +119,6 @@ Game Engines
 
 [chocolatier](https://github.com/alexkehayias/chocolatier) – ClojureScript game/engine using Pixi.js for rendering.
 
-[qiciengine](https://github.com/qiciengine/qiciengine)(abandoned) – rich unity-like game creation tool. 
-
 [hexi](https://github.com/kittykatattack/hexi) – minimalistic game engine with pixi rendering.
 
 [pixi-engine](https://github.com/gamestdio/pixi-engine) - Provides a minimal engine-like structure for developing games with PixiJS
@@ -151,8 +131,6 @@ Integrations
 [react-pixi](https://github.com/Izzimach/react-pixi) – integration for facebook's framework.
 
 [pixi.scala.js](https://github.com/scalajs-io/pixijs) – externs for scala.js compiler.
-
-[robotlegs-pixi](https://github.com/GoodgameStudios/RobotlegsJS-Pixi) – RobotlegsJS framework integration with PixiJS.
 
 [react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) – integration with react.js framework.
 
