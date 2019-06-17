@@ -36,8 +36,6 @@ Scene, textures, sprites, other augmentations
 
 [pixi-tilemap](https://github.com/pixijs/pixi-tilemap) – tilemaps with ease.
 
-[pixi-tiled](https://github.com/beeglebug/pixi-tiled) – import tile maps from [Tiled Editor](http://www.mapeditor.org/).
-
 [pixi-sdf-text](https://github.com/PixelsCommander/pixi-sdf-text) – most efficient text rendering approach for webgl now in pixi.
 
 [pixi-multistyle-text](https://github.com/tleunen/pixi-multistyle-text) – adds a MultiStyleText object inside pixi.js to easily create text using different styles.
@@ -56,8 +54,6 @@ Essential
 =========
 
 [ee3-timer](https://github.com/soimy/eventemitter3-timer) – addition to ee3 and works with PIXI >4.
-
-[pixi-timer](https://github.com/Nazariglez/pixi-timer) – manage event timers easily.
 
 
 Debug
