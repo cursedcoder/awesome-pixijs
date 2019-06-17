@@ -134,6 +134,8 @@ Integrations
 
 [react-pixi](https://github.com/inlet/react-pixi) – another react.js integration with custom renderer, reconcilation, etc.
 
+(RobotlegsJS-Pixi)[https://github.com/RobotlegsJS/RobotlegsJS-Pixi] – RobotlegsJS framework integration with PixiJS.
+
 Books & Learning
 ================
 
