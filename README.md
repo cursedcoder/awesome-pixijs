@@ -78,6 +78,8 @@ Animate
 
 [pixi-animate](https://github.com/jiborobot/pixi-animate) – plugin for Pixi.js which provides a runtime for content export using PixiAnimate Extension.
 
+[pixi-animate-extension] – Custom Platform Plugin for Adobe Animate CC (Formerly Adobe Flash CC) - to export animation for the Pixi.js renderer.
+
 
 Filters, shaders, vfx
 =====================
