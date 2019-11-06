@@ -50,6 +50,8 @@ Scene, textures, sprites, other augmentations
 
 [canvas-latex](https://github.com/CurriculumAssociates/canvas-latex) – render latex formulas in pixi.js.
 
+[yy-rendersheet](https://github.com/davidfig/rendersheet) - generate on-the-fly spritesheets for pixi.js
+
 Essential
 =========
 
@@ -78,8 +80,9 @@ Animate
 
 [pixi-animate](https://github.com/jiborobot/pixi-animate) – plugin for Pixi.js which provides a runtime for content export using PixiAnimate Extension.
 
-[pixi-animate-extension] – Custom Platform Plugin for Adobe Animate CC (Formerly Adobe Flash CC) - to export animation for the Pixi.js renderer.
+[pixi-ease](https://github.com/davidfig/pixi-ease) - pixi.js animation library using easing functions
 
+[pixi-animate-extension] – Custom Platform Plugin for Adobe Animate CC (Formerly Adobe Flash CC) - to export animation for the Pixi.js renderer.
 
 Filters, shaders, vfx
 =====================
