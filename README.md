@@ -89,6 +89,10 @@ Filters, shaders, vfx
 
 [pixi-filters](https://github.com/pixijs/pixi-filters) – some official filters.
 
+[neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
+
+[pixi-after-effects-pixi5](https://www.npmjs.com/package/pixi-after-effects-pixi5) - import Adobe AfterEffects animations as JSON into pixi.js
+
 
 GUI and interaction
 ===================
