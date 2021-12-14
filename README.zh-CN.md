@@ -1,5 +1,7 @@
-精选 pixi.js 工具
+了不起的 pixi.js 工具
 =====================
+
+[English](./README.md) | 简体中文
 
 著名的 html5 渲染框架的有用 库/资源/工具 列表
 
@@ -89,108 +91,107 @@
 
 [pixi-filters](https://github.com/pixijs/pixi-filters) – 一些官方滤波器。
 
-[neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - allows you to render NeutrinoParticles effects such as water stream
+[neutrinoparticles.pixi](https://www.npmjs.com/package/neutrinoparticles.pixi) - 允许你渲染中微子粒子的效果，如水流。
 
-[pixi-after-effects-pixi5](https://www.npmjs.com/package/pixi-after-effects-pixi5) - import Adobe AfterEffects animations as JSON into pixi.js
+[pixi-after-effects-pixi5](https://www.npmjs.com/package/pixi-after-effects-pixi5) - 将Adobe AfterEffects动画作为JSON导入pixi.js中。
 
 
-GUI and interaction
+GUI 和交互
 ===================
 
-[EZGUI](https://github.com/Ezelia/EZGUI) – bunch of crafted UI elements to use in your app.
+[EZGUI](https://github.com/Ezelia/EZGUI) – 在你的应用程序中使用一堆精心制作的 UI 元素。
 
-[gown.js](https://github.com/GreyRook/gown.js) – UI system for pixi.js inspired by [feathers-ui](https://feathersui.com/).
+[gown.js](https://github.com/GreyRook/gown.js) – pixi.js 的 UI 系统，灵感来源于[feathers-ui](https://feathersui.com/)。
 
-[dat.gui](https://github.com/dataarts/dat.gui) – DOM-based GUI can be used as dev tools on top of pixi.
+[dat.gui](https://github.com/dataarts/dat.gui) – 基于 DOM 的 GUI 可以作为 Pixi 上面的开发工具。
 
-[heatmap](https://github.com/nconrad/heatmap) – WebGL Heatmap Viewer for Bioinformatics and Big Data.
+[heatmap](https://github.com/nconrad/heatmap) – 用于生物信息学和大数据的 WebGL 热图浏览器。
 
 
-Audio
+音频
 =====
 
-[pixi-sound](https://github.com/pixijs/pixi-sound) – official WebAudio API playback without any Flash shims or HTML Audio fallback.
+[pixi-sound](https://github.com/pixijs/pixi-sound) – 官方的 WebAudio API 播放，没有任何 Flash 垫片或 HTML 音频回退。
 
-[sound.js](https://github.com/kittykatattack/sound.js) – a micro-library to load, play and generate sound effects and music for games and interactive applications.
+[sound.js](https://github.com/kittykatattack/sound.js) – 一个微型库，用于加载、播放和生成游戏和互动应用程序的音效和音乐。
 
-Particles
+粒子
 =========
 
-[pixi-particles](https://github.com/pixijs/pixi-particles) – official particles plugin.
+[pixi-particles](https://github.com/pixijs/pixi-particles) – 官方粒子插件。
 
-[pixi-particles-editor](https://github.com/pixijs/pixi-particles-editor) – see online [demo](http://pixijs.github.io/pixi-particles-editor/).
+[pixi-particles-editor](https://github.com/pixijs/pixi-particles-editor) – 查看在线 [demo](http://pixijs.github.io/pixi-particles-editor/)。
 
 
-Game Engines
+游戏引擎
 ============
 
-[chocolatier](https://github.com/alexkehayias/chocolatier) – ClojureScript game/engine using Pixi.js for rendering.
+[chocolatier](https://github.com/alexkehayias/chocolatier) – ClojureScript 游戏/引擎使用 Pixi.js 进行渲染。
 
-[hexi](https://github.com/kittykatattack/hexi) – minimalistic game engine with pixi rendering.
+[hexi](https://github.com/kittykatattack/hexi) – 带有 Pixi 渲染的极简主义游戏引擎。
 
-[pixi-engine](https://github.com/gamestdio/pixi-engine) - Provides a minimal engine-like structure for developing games with PixiJS
+[pixi-engine](https://github.com/gamestdio/pixi-engine) - 为使用 PixiJS 开发游戏提供了一个类似引擎的最小结构
 
-Integrations
+集成
 ============
 
-[pixi-haxe](https://github.com/pixijs/pixi-haxe) – externs for [haxe](haxe.org) compiler.
+[pixi-haxe](https://github.com/pixijs/pixi-haxe) – [haxe](haxe.org) 编译器的 externs。
 
-[react-pixi](https://github.com/Izzimach/react-pixi) – integration for facebook's framework.
+[react-pixi](https://github.com/Izzimach/react-pixi) – 为 Facebook 的 react 框架进行整合。
 
-[pixi.scala.js](https://github.com/scalajs-io/pixijs) – externs for scala.js compiler.
+[pixi.scala.js](https://github.com/scalajs-io/pixijs) – 用于 scala.js 编译器的 externs。
 
-[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) – integration with react.js framework.
+[react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) – 与 react.js 框架的整合。
 
-[react-pixi](https://github.com/inlet/react-pixi) – another react.js integration with custom renderer, reconcilation, etc.
+[react-pixi](https://github.com/inlet/react-pixi) – 另一个 react.js 集成，带有自定义渲染器、调和等功能。
 
-(RobotlegsJS-Pixi)[https://github.com/RobotlegsJS/RobotlegsJS-Pixi] – RobotlegsJS framework integration with PixiJS.
+[RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) – RobotlegsJS 框架与 PixiJS 的整合。
 
-Books & Learning
+书籍和学习
 ================
 
-[The Book of Shaders](https://thebookofshaders.com/) – ✨ comprehensive book about glsl with examples in javascript and [online sandbox](http://editor.thebookofshaders.com/).
+[The Book of Shaders](https://thebookofshaders.com/) – ✨ 关于 glsl 的综合书籍，有javascript和[在线 sandbox ](http://editor.thebookofshaders.com/)的例子。
 
-[WebGL How it Works](https://webglfundamentals.org/webgl/lessons/webgl-how-it-works.html) – ✨ if you have zero computer graphics knowledge, the set of articles helps to get your hands on webgl api and fundamentals.
+[WebGL How it Works](https://webglfundamentals.org/webgl/lessons/webgl-how-it-works.html) – ✨ 如果你的计算机图形知识为零，这组文章有助于你掌握 webgl api 和基础知识。
 
-[kittenattack](https://github.com/kittykatattack) – check that person github repositories, most of them are incredibly suited for learning.
+[kittenattack](https://github.com/kittykatattack) – 关注这个人的 github 仓库，他们中的大多数人都无比适合学习。
 
-[learningPixi](https://github.com/kittykatattack/learningPixi) – definitive guide to game development with pixi.
-
+[learningPixi](https://github.com/kittykatattack/learningPixi) – 用 Pixi 开发游戏的权威指南。
 
 Forks
 =====
 
-[gameofbombs](https://github.com/gameofbombs/pixi.js) – custom pixi 3.0 with static transforms, 2d camera and 2.5d transforms. Used in production on [gameofbombs.com](https://gameofbombs.com).
+[gameofbombs](https://github.com/gameofbombs/pixi.js) – 定制的 Pixi 3.0，带有静态变换、2D 相机和 2.5D 变换。在 [gameofbombs.com](https://gameofbombs.com) 的生产中使用。
 
 
-Tools
+工具
 =====
 
-[TexturePacker](https://www.codeandweb.com/texturepacker) – sprite sheet packer for PixiJS with graphical user interface and command line. Optimizes sprite sheets for best render quality and low memory usage.
+[TexturePacker](https://www.codeandweb.com/texturepacker) – PixiJS 的精灵图打包器，具有图形用户界面和命令行。优化精灵片，以达到最佳的渲染质量和低内存使用。
 
-[spritesheet.js](https://github.com/krzysztof-o/spritesheet.js) – is command-line spritesheet (a.k.a. Texture Atlas) generator written in node.js. Support export to pixi.js
+[spritesheet.js](https://github.com/krzysztof-o/spritesheet.js) – 是用 node.js 编写的命令行 spritesheet（又称Atlas 纹理）生成器。支持导出到 pixi.js。
 
-[SpriteIlluminator](https://www.codeandweb.com/spriteilluminator) – normal map generator for sprites. Allows creating awesome dynamic light effects.
+[SpriteIlluminator](https://www.codeandweb.com/spriteilluminator) – 用于精灵的法线图生成器。允许创建非常棒的动态灯光效果。
 
-Games
+游戏
 =====
 
-[polyball](https://github.com/polyball/polyball) – fast, multiplayer, physics-driven tennis in two dimensions..
+[polyball](https://github.com/polyball/polyball) – 快速，多人参与，物理驱动的网球在两个维度。
 
-[bemuse](https://github.com/bemusic/bemuse) – web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.
+[bemuse](https://github.com/bemusic/bemuse) – 基于 web 的在线节奏动作游戏。基于 HTML5 技术、React、Redux 和 Pixi.js。
 
-[breakout](https://github.com/Bonnee/breakthefuckout) – breakout game made in JavaScript and Pixi.js.
+[breakout](https://github.com/Bonnee/breakthefuckout) – 用 JavaScript 和 Pixi.js 制作的突围游戏。
 
-[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) – DuckHunt ported to JS and HTML5.
+[duckhunt](https://github.com/MattSurabian/DuckHunt-JS) – DuckHunt 被移植到 JS 和 HTML5。
 
-[doom-lgs](https://github.com/matiasbeckerle/doom-lgs) – a multiplayer Node.js light gun shooter inspired on Doom.
+[doom-lgs](https://github.com/matiasbeckerle/doom-lgs) – 一款多人Node.js光枪射击游戏，灵感来自于《Doom》。
 
-[rockvomit](https://github.com/rocket-hands/rockvomit ) – ragdoll rhythm game.
+[rockvomit](https://github.com/rocket-hands/rockvomit ) – 布娃娃节奏游戏。
 
-[railways](https://github.com/ivanpopelyshev/railways) – railways game.
+[railways](https://github.com/ivanpopelyshev/railways) – 铁路游戏。
 
-[tetris](https://github.com/nylira/tetris) – just a tetris.
+[tetris](https://github.com/nylira/tetris) – 俄罗斯方块。
 
 [wbwwb-ko](https://github.com/simnalamburt/wbwwb-ko)
 
-[LegendOfMountainSea](https://github.com/SkyHarp/LegendOfMountainSea) – 4X sandbox game with legend of Mountain and Sea Classics.
+[LegendOfMountainSea](https://github.com/SkyHarp/LegendOfMountainSea) – 带有山海经传说的4X沙盒游戏。

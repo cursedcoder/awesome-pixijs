@@ -1,6 +1,8 @@
 Awesome pixi.js tools
 =====================
 
+English | [简体中文](./README.zh-CN.md)
+
 A list of useful libs/resources/tools for renowned html5 rendering framework
 
 Websites and forums
@@ -143,7 +145,7 @@ Integrations
 
 [react-pixi](https://github.com/inlet/react-pixi) – another react.js integration with custom renderer, reconcilation, etc.
 
-(RobotlegsJS-Pixi)[https://github.com/RobotlegsJS/RobotlegsJS-Pixi] – RobotlegsJS framework integration with PixiJS.
+[RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi) – RobotlegsJS framework integration with PixiJS.
 
 Books & Learning
 ================
