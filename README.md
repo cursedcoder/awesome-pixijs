@@ -40,7 +40,7 @@ Scene, textures, sprites, other augmentations
 
 [pixi-sdf-text](https://github.com/PixelsCommander/pixi-sdf-text) – most efficient text rendering approach for webgl now in pixi.
 
-[pixi-multistyle-text](https://github.com/tleunen/pixi-multistyle-text) – adds a MultiStyleText object inside pixi.js to easily create text using different styles.
+[pixi-tagged-text](https://github.com/mimshwright/pixi-tagged-text) – adds a TaggedText object inside pixi.js to easily create text fields with multiple, nested styles and even inline images using a syntax similar to HTML. (Replaces [pixi-multistyle-text](https://github.com/tleunen/pixi-multistyle-text))
 
 [pixicam](https://github.com/georgiee/lab-pixicam) – 2d camera for pixi.
 
@@ -85,6 +85,8 @@ Animate
 [pixi-ease](https://github.com/davidfig/pixi-ease) - pixi.js animation library using easing functions
 
 [pixi-animate-extension] – Custom Platform Plugin for Adobe Animate CC (Formerly Adobe Flash CC) - to export animation for the Pixi.js renderer.
+
+[pixi-easing-graph](https://github.com/mimshwright/pixi-easing-graph) - A component for visualizing easing functions and their animations (also includes a component for react-pixi)
 
 Filters, shaders, vfx
 =====================
