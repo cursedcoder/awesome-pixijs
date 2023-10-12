@@ -109,6 +109,8 @@ GUI and interaction
 
 [heatmap](https://github.com/nconrad/heatmap) – WebGL Heatmap Viewer for Bioinformatics and Big Data.
 
+[goodshow](https://github.com/simplygreatwork/goodshow) – a hackable, simple, entity-component UI system for Pixi and WebGL.
+
 
 Audio
 =====
